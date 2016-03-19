@@ -1,8 +1,8 @@
 # PHYS227 HW 5
 
-**Author:** _\<your name\>_
+**Author:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-patti102.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-patti102)
 
 **Due date:** 2016/03/08
 
@@ -21,7 +21,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw5.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+This assignment was good. It combined a lot of things that we had done before and gave me a chance to pratice them again. It could have been shorter. That being said, there have been much longer homeworks in the world, so I really can't complain.
 
 ## Honor Pledge
 
@@ -30,6 +30,8 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+np python docs and the Classwork 5 calculus.py module.
+
 Signed,
 
-_\<your name\>_
+Taylor Patti
